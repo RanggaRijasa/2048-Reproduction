@@ -1,0 +1,15 @@
+C:\Users\Rangga R\source\repos\2048\2048\bin\Debug\net6.0\2048.exe
+C:\Users\Rangga R\source\repos\2048\2048\bin\Debug\net6.0\2048.deps.json
+C:\Users\Rangga R\source\repos\2048\2048\bin\Debug\net6.0\2048.runtimeconfig.json
+C:\Users\Rangga R\source\repos\2048\2048\bin\Debug\net6.0\2048.dll
+C:\Users\Rangga R\source\repos\2048\2048\bin\Debug\net6.0\2048.pdb
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.csproj.AssemblyReference.cache
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.AssemblyInfoInputs.cache
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.AssemblyInfo.cs
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.csproj.CoreCompileInputs.cache
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.dll
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\refint\2048.dll
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.pdb
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\2048.genruntimeconfig.cache
+C:\Users\Rangga R\source\repos\2048\2048\obj\Debug\net6.0\ref\2048.dll
